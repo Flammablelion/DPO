@@ -1,0 +1,14 @@
+.startBTN{
+    height: 50px;
+    width: 100px;
+    background-color: lightblue;
+    border-radius: 50%;
+
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    grid-column-start: 2;
+    grid-column-end: 2;
+
+}
